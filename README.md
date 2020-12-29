@@ -1,2 +1,3 @@
-# bri-is-dumb
-Bri is dumb but also many other things.
+# miles-is-dumb
+
+Miles is dumb but also many other things.
